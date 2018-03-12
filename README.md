@@ -2,10 +2,14 @@
 ## Specializations
 ## Project: Capstone Proposal and Capstone Project
 
-**Note**
+### Software Requirements ####
+Python 3: https://www.python.org/download/releases/3.0/  
+geopy 1.11.0: https://pypi.python.org/pypi/geopy  
+scikit-learn 0.19: http://scikit-learn.org/stable/  
+numpy 1.14: http://www.numpy.org/  
+pandas 0.22: https://pandas.pydata.org/  
 
-The Capstone is a two-staged project. The first is the proposal component, where you can receive valuable feedback about your project idea, design, and proposed solution. This must be completed prior to your implementation and submitting for the capstone project. 
-
-You can find the [capstone proposal rubric here](https://review.udacity.com/#!/rubrics/410/view), and the [capstone project rubric here](https://review.udacity.com/#!/rubrics/108/view). Please ensure that you are following directions correctly before submitting these two stages which encapsulate your capstone.
-
-Please email [machine-support@udacity.com](mailto:machine-support@udacity.com) if you have any questions.
+### Links ###
+Competition: https://www.kaggle.com/c/nyc-taxi-trip-duration  
+Datasets: https://www.kaggle.com/c/nyc-taxi-trip-duration/data  
+Benchmark: https://www.kaggle.com/danijelk/beat-the-benchmark  
